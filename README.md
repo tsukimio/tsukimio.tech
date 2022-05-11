@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Hi there <img src="https://user-images.githubusercontent.com/57784409/159375731-3d68b287-16d8-40fe-9bc5-8386770676cc.png" data-canonical-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/310/waving-hand_1f44b.png" width="30" height="30" />
 
-You can use the [editor on GitHub](https://github.com/tsukimio/tsukimio.tech/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This organization hosts multiple different projects, mainly centered around modification of Android. Feel free to contribute to any of the repositories, as help is much appreciated <img src="https://user-images.githubusercontent.com/57784409/159374966-637abe65-2fbc-48e1-894b-7b6883e4a4bd.png" data-canonical-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/310/smiling-face-with-smiling-eyes_1f60a.png" width="15" height="15" />.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Projects:
 
-### Markdown
+### [ThemedIcons](https://tsukimio.github.io/ThemedIcons/)
+A maintained version of a Magisk module that adds more themed icons to the Pixel launcher. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [SystemUI Bootloop](https://tsukimio.github.io/systemui-bootloop/)
+Fixes SystemUI bootloops caused by misconfigured or broken Magisk modules or apps with root permission.
 
-```markdown
-Syntax highlighted code block
+Want to reach out? Feel free to contact us at [contact@tsukimio.tech](mailto:contact@tsukimio.tech), or message us on Telegram [@tsukimio_discussion](https://t.me/tsukimio_discussion).
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tsukimio/tsukimio.tech/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+We also release announcements for our projects on Telegram [@tsukimio](https://t.me/tsukimio), and may later update our website to showcase our projects <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/310/thumbs-up_1f44d.png" width="15" height="15" />.
